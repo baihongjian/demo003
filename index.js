@@ -2,4 +2,4 @@ function greet(name) {
   return `Hello, ${name}!`;
 }
 
-console.log(greet("GitHub"));
+console.log("Updated by branch A");
