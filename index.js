@@ -2,4 +2,4 @@ function greet(name) {
   return `Hello, ${name}!`;
 }
 
-console.log("Updated by branch A");
+console.log("第2次提交");
